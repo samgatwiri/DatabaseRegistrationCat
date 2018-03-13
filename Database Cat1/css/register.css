@@ -1,0 +1,89 @@
+
+.welcome {
+	margin-top: 25%;
+	color: darkslategrey;
+}
+.jumbotron {
+	text-align: center;
+	background-image: url("../img/litmus.gif");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 28em;
+	/*border: 2px solid grey;
+	border-radius: 15px;*/
+}
+.l {
+	color: darkred;
+}
+.reset{
+	list-style-type: none;
+}
+.i {
+	color: darkgreen;
+}
+.homedash {
+	margin-left: 50px;
+}
+.t{
+	color: #805A15;
+}
+#litmushome  {
+	list-style-type: none;
+	text-decoration: none;
+	display: inline-block;
+}
+#litmushome li<a{
+	size: 4px;
+}
+.m{
+	color: maroon;
+}
+.u {
+	color: orange;
+}
+.s {
+	color: purple;
+}
+.form1 {
+	text-align: center;
+}
+.content {
+	margin-left: 20%;
+	margin-top: 50px;
+	width: 65%;
+	border: 4px grey solid;
+}
+.btn-default{
+	background-color: #805A15;
+	color: white;
+	width: 40%;
+}
+.social {
+	
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+	padding-right: 25px;
+}
+.foot {
+	text-align: center;
+}
+.wrong {
+	color: red;
+}
+h5 {
+	color: darkgreen;
+}
+.navbar {
+	height: 6em;
+}
+h4{
+	margin-left: 40%;
+	color: white;
+}
+.h4dash{
+	padding-left: 20%;
+}
+.span1 {
+	font-size: 20%;
+}
